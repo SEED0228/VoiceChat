@@ -12,10 +12,10 @@
 
 このフォルダを開いた状態で下記コマンドを入力します
 
-"""
+```
 cd jar
 java –jar VoiceChatServer.jar
-"""
+```
 
 #### windowsの場合
 
@@ -27,10 +27,10 @@ jarフォルダ内にあるVoiceChatServer.jarをダブルクリックすると�
 
 このフォルダを開いた状態で下記コマンドを入力します
 
-"""
+```
 cd jar
 java –jar VoiceChat.jar
-"""
+```
 
 その後，ipアドレスの入力画面が出るので，起動したサーバーのipアドレスを入力してください．
 
