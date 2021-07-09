@@ -14,7 +14,7 @@
 
 ```
 cd jar
-java –jar VoiceChatServer.jar
+java -jar VoiceChatServer.jar
 ```
 
 #### windowsの場合
@@ -29,7 +29,7 @@ jarフォルダ内にあるVoiceChatServer.jarをダブルクリックすると�
 
 ```
 cd jar
-java –jar VoiceChat.jar
+java -jar VoiceChat.jar
 ```
 
 その後，ipアドレスの入力画面が出るので，起動したサーバーのipアドレスを入力してください．
